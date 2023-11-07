@@ -1,7 +1,5 @@
 github.com/SamHennessy/hlive v0.1.1-0.20220929094918-2a1de9ceddaa h1:0Tr8DG4Zptb2UQE3YyCUptGQIvIIiz1XveJ6rGyPByc=
 github.com/SamHennessy/hlive v0.1.1-0.20220929094918-2a1de9ceddaa/go.mod h1:l7XUS/O//SdO/mLjlx7zaINF2YvPQcDS353PJmezZEk=
-github.com/SamHennessy/isles v0.0.0-20231107112422-4e42225ef62c h1:jOxeww6vb59aDqwndL7Bhz/oW1driOb3sGsq29Es/NA=
-github.com/SamHennessy/isles v0.0.0-20231107112422-4e42225ef62c/go.mod h1:yWVfNssCl51pvarTirGvqMdOj3v0QL0ba4+kCCqcgp0=
 github.com/bep/debounce v1.2.1 h1:v67fRdBA9UQu2NhLFXrSg0Brw7CexQekrBwDMM8bzeY=
 github.com/bep/debounce v1.2.1/go.mod h1:H8yggRPQKLUhUoqrJC1bO2xNya7vanpDl7xR3ISbCJ0=
 github.com/cespare/xxhash/v2 v2.1.1/go.mod h1:VGX0DQ3Q6kWi7AoAeZDth3/j3BFtOZR5XLFGgcrjCOs=

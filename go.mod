@@ -3,7 +3,7 @@ module github.com/SamHennessy/isles-demo
 go 1.21.3
 
 // replace github.com/SamHennessy/hlive v0.2.0 => ../hlive
-// replace github.com/SamHennessy/isles v0.1.0 => ../isles
+// replace github.com/SamHennessy/isles v0.0.0 => ../isles
 
 require (
 	github.com/SamHennessy/hlive v0.1.1-0.20220929094918-2a1de9ceddaa
